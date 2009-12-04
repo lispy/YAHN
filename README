@@ -1,3 +1,17 @@
 The purpose of this project is to serve as a Clojure
 tutorial based upon a well written Lisp like example:
 Hacker News by Paul Graham.
+
+Hacker news (news.arc) is part of a work on the Arc 
+language by Paul Graham and Robert Morris:
+  http://arclanguage.org/
+
+Unsurprisingly the name of this project is 
+Yet Another Hacker News, or YAHN for short :)
+
+Note that YAHN is licensed under the Artistic License 2.0
+as is Hacker News.  For more information on this OSI approved
+license:
+  http://www.opensource.org/licenses/artistic-license-2.0.php
+  
+Copyright (c) 2009 Brian Ericson, Tom Marble
